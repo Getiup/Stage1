@@ -1,0 +1,88 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.title {
+	font-style: italic;
+	font-family: 'Brush Script MT', cursive;
+}
+.TOC {
+    display: flex;
+    background-color: #FFEB46;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+.app {
+	background-color: #FFEB46;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+.div_1 {
+	background-color: #F76801;
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+	font-style: italic;
+	font-weight: bold;
+}
+.div_2 {
+	background-color: #FFEB46;
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+	font-style: italic;
+	font-weight: bold;
+}
+.h2_1 {
+	font-family: 'Brush Script MT', cursive;
+	color: #E200FF;
+}
+.span_1 {
+	font-weight: bold;
+	font-family: 'Brush Script MT', cursive;
+	color: #1500FF;
+	font-size: 13pt;
+}
+.span_2 {
+	font-family: 'Brush Script MT', cursive;
+	color: #FF0009;
+	font-size: 12pt;
+}
+.ol_1 {
+	color: #1500FF;
+	font-family: 'Andale Mono', AndaleMono, monospace;
+}
+.description {
+    background-color: #F62817;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 705px;
+}
+body {
+	background-color: #F62817;
+	font-family: Helvetica;
+}
+h1 {
+	text-align: center;
+	color: #FFEB46;
+	font-size: 30pt;
+}
+.picture {
+	max-width: 80%;
+	border-radius: 20px;
+	margin: 20px;
+	margin-left: 10%;
+}
